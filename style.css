@@ -1,0 +1,15 @@
+.center-text {
+    text-align: center;
+}
+
+.yellowbg {
+    background-color: yellow;
+}
+
+.redbg {
+    background-color: red;
+}
+
+.brownbg {
+    background-color: rgb(124, 73, 73);
+}
